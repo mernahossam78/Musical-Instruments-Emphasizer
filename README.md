@@ -1,5 +1,4 @@
 # Musical-Instruments-Emphasizer
-# Musical-Instruments-Emphasizer
 ## Description
 - music equalizer to isolates certain frequencies and either boosts them, lowers them.
 
